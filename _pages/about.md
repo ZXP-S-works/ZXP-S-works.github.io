@@ -9,8 +9,7 @@ redirect_from:
 published: true
 ---
 
-## Research Interests
-I am working on robotics and machine learning. My research interests line on 
+I am working on robotics and machine learning. My research interests include 
 leveraging robot manipulation by reinforcement learning, and streamlining robotic systems to fulfill real-world
 applications. Currently, I am working on equivariant neural networks and model based reinforcement learning.
 
@@ -21,5 +20,5 @@ applications. Currently, I am working on equivariant neural networks and model b
 [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
 
 + (2017-2020) M.S, Robotics, Northeastern University, Boston, MA, USA
-+ 
+
 + (2013-2017) B.S, Automation, South China University of Technology, Guangzhou, Guangdong, China
