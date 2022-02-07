@@ -22,3 +22,14 @@ applications. Currently, I am working on equivariant neural networks and model b
 + (2017-2020) M.S, Robotics, Northeastern University, Boston, MA, USA
 
 + (2013-2017) B.S, Automation, South China University of Technology, Guangzhou, Guangdong, China
+
+
+## Publication
+
+---
+![](images/corl21.png){: .align-right width="200px"}
+**Equivariant Q Learning in Spatial Action Spaces**  
+Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt  
+CoRL 2021, London, UK  
+[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
+---
