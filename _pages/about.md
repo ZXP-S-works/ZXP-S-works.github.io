@@ -31,10 +31,11 @@ applications. Currently, I am working on equivariant neural networks and model b
 Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt  
 CoRL 2021, London, UK  
 [(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
+``
 
 ![](images/TII20.png){: .align-right width="200px"}
 **Two Hybrid End-Effector Posture-Maintaining and Obstacle-Limits Avoidance Schemes for Redundant Robot Manipulators**  
 Zhijun Zhang, Siyuan Chen, **Xupeng Zhu**, Ziyi Yan  
 IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2020
 [(PDF)](https://ieeexplore.ieee.org/document/8737741)
-
+``
