@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Boston-US"
-title                    : ""
+title                    : "Mian"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xupeng Zhu"
 description              : &description "personal description"
 url                      : https://zxp-s-works.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ author:
   name             : "Xupeng Zhu"
   avatar           : "profile.png"
   bio              : "PhD student at Northeastern University"
-  location         : "Boston"
-  employer         : ""
+  location         : "Boston, MA"
+  employer         :
 #  pubmed           : ""
 #  googlescholar    : ""
   email            : "zxpzzz521@gmail.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/ZXP-S-works"
+  github           : "ZXP-S-works"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xupengzhu-skunk/"
+  linkedin         : "xupengzhu-skunk"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
