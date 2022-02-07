@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am working on robotics and machine learning. My research interests include 
+I am a Ph.D. student working on robotics and machine learning. My research interests include 
 leveraging robot manipulation by reinforcement learning, and streamlining robotic systems to fulfill real-world
 applications. Currently, I am working on equivariant neural networks and model based reinforcement learning.
 
