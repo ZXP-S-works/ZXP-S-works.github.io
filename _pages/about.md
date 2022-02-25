@@ -26,6 +26,14 @@ applications. Currently, I am working on equivariant neural networks and model b
 
 ## Publication
 
+![](images/rss_grasp.jpeg){: .align-right width="200px"}
+**Sample Efficient Grasp Learning Using Equivariant Models**  
+**Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
+*Preprint*  
+[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+` `  
+` `  
+
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt  
