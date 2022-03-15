@@ -30,15 +30,25 @@ applications. Currently, I am working on equivariant neural networks and model b
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *Preprint*  
-[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)
+[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Website)](https://zxp-s-works.github.io/equivariant_grasp_site/)
+[(Video)](https://www.youtube.com/watch?v=au59crsgiKw)
 ` `  
 ` `  
+
+
 
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt  
 CoRL 2021, London, UK  
-[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
+[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)
+[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)
+[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)
+[(Page)](https://pointw.github.io/equi_q_page/)
+[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)
+[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
 
