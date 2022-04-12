@@ -29,7 +29,7 @@ applications. Currently, I am working on equivariant neural networks and model b
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
-*RSS 2022, New York, USA*
+*RSS 2022, New York City, New York, USA*
 [(PDF)](https://arxiv.org/pdf/2202.09468.pdf)
 [(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 [(Website)](https://zxp-s-works.github.io/equivariant_grasp_site/)
