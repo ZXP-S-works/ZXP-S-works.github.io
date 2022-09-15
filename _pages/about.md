@@ -26,6 +26,22 @@ applications. Currently, I am working on equivariant neural networks and model b
 
 ## Publication
 
+![](images/on_robot.png){: .align-right width="200px"}
+**On-Robot Learning With Equivariant Models**  
+Dian Wang, Mingxi Jia, **Xupeng Zhu**, Robin Walters, Robert Platt  
+*CoRL 2022, Auckland, New Zealand*  
+[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
+` `  
+` `
+
+![](images/bulletarm.png){: .align-right width="200px"}
+**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
+Dian Wang, Colin Kohler, **Xupeng Zhu**, Mingxi Jia, Robert Platt   
+*ISRR 2022, Geneva, Switzerland*  
+[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)[(Code)](https://github.com/ColinKohler/BulletArm)
+` `  
+` `
+
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
@@ -59,3 +75,8 @@ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2
 [(PDF)](https://ieeexplore.ieee.org/document/8737741)
 ` `  
 ` `  
+
+
+## Service
+Reviewer: CoRL2022, T-RO2022
+Teaching Assistant: CS5180 Reinforcement Learning, CS5100 Introduction to AI
