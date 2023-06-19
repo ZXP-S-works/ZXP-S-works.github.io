@@ -68,36 +68,43 @@ Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong
 ` `  
 ` `
 
-![](images/rss22.png){: .align-right width="200px"}
+![](images/on_robot.png){: .align-right width="200px"}
 **On-Robot Learning With Equivariant Models**  
 Dian Wang, Mingxi Jia, **Xupeng Zhu**, Robin Walters, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
-[(PDF)]('https://pointw.github.io/equi_robot_page/')[(Video)]('https://www.youtube.com/watch?v=NEUDTVXlKeg')[(Code)]('https://github.com/pointW/equi_rl')
+[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
+` `  
+` `
+
+![](images/bulletarm.png){: .align-right width="200px"}
+**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
+Dian Wang, Colin Kohler, **Xupeng Zhu**, Mingxi Jia, Robert Platt   
+*ISRR 2022, Geneva, Switzerland*  
+[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)[(Code)](https://github.com/ColinKohler/BulletArm)
 ` `  
 ` `
 
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
-*Preprint*  
-[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+*RSS 2022, New York, USA*  
+[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)
+[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Website)](https://zxp-s-works.github.io/equivariant_grasp_site/)
+[(Video)](https://www.youtube.com/watch?v=au59crsgiKw)
 ` `  
 ` `  
-
-![](images/bulletarm.png){: .align-right width="200px"}
-**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
-Dian Wang\*, Colin Kohler\*, **Xupeng Zhu**, Mingxi Jia, Robert Platt  
-\* Equal Contribution  
-*ISRR 2022, Geneva, Switzerland*  
-[(PDF)]('https://arxiv.org/pdf/2205.14292.pdf')[(Code)]('https://github.com/ColinKohler/BulletArm')
-` `  
-` ` 
 
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt  
-CoRL 2021, London, UK  
-[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
+*CoRL 2021, London, UK*  
+[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)
+[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)
+[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)
+[(Page)](https://pointw.github.io/equi_q_page/)
+[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)
+[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
 
@@ -108,3 +115,8 @@ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2
 [(PDF)](https://ieeexplore.ieee.org/document/8737741)
 ` `  
 ` `  
+
+
+## Service
+Reviewer: CVPR 2023 Workshop on 3D Vision and Robotics, RSS2023 Workshop Symmetry, CoRL2022, T-RO2022
+Teaching Assistant: CS5180 Reinforcement Learning, CS5100 Introduction to AI
