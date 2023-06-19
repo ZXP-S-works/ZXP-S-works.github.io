@@ -54,7 +54,7 @@ Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters
 ![](images/haojie_icra23.png){: .align-right width="200px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt  
-*ICRA 2023, London, UK*
+*ICRA 2023, London, UK*  
 [(PDF)]('https://arxiv.org/pdf/2211.00191.pdf')[(Page)]('https://haojhuang.github.io/edge_grasp_page/')[(Code)]('https://github.com/HaojHuang/Edge-Grasp-Network')
 ` `  
 ` `
@@ -62,8 +62,8 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 ![](images/symplan-intro-commutative.png){: .align-right width="200px"}
 **Integrating Symmetry into Differentiable Planning with Steerable Convolutions**
 Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
-\* Equal Contribution
-*ICLR 2023, RLDM 2022*
+\* Equal Contribution  
+*ICLR 2023, RLDM 2022*  
 [(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')[(Code)]('https://github.com/zhao0625/DiffPlan')[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
 ` `  
 ` `
