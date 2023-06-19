@@ -34,7 +34,7 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 ` `  
 ` `
 
-![](images/xupeng_ar.jpg){: .align-right width="200px"}
+![](images/xupeng_ar.jpeg){: .align-right width="200px"}
 **On Robot Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
@@ -61,7 +61,7 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 
 ![](images/symplan-intro-commutative.png){: .align-right width="200px"}
 **Integrating Symmetry into Differentiable Planning with Steerable Convolutions**
-Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong
+Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
 \* Equal Contribution
 *ICLR 2023, RLDM 2022*
 [(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')[(Code)]('https://github.com/zhao0625/DiffPlan')[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
