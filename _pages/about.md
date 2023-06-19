@@ -26,6 +26,56 @@ applications. Currently, I am working on equivariant neural networks and model b
 
 ## Publication
 
+![](images/ice_example.png){: .align-right width="200px"}
+**A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
+Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters  
+*Preprint*  
+[(PDF)]('https://arxiv.org/pdf/2303.04745.pdf')
+` `  
+` `
+
+![](images/xupeng_ar.jpg){: .align-right width="200px"}
+**On Robot Grasp Learning Using Equivariant Models**  
+**Xupeng Zhu**, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
+*Autonomous Robots. 2023*  
+[(PDF)]('https://arxiv.org/pdf/2306.06489.pdf')[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+` `  
+` `
+
+![](images/mingxi_icra23.png){: .align-right width="200px"}
+**SEIL: Simulation-augmented Equivariant Imitation Learning**  
+Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters, Robert Platt  
+\* Equal Contribution  
+*ICRA 2023, London, UK*  
+[(PDF)]('https://arxiv.org/pdf/2211.00194.pdf')[(Page)]('https://saulbatman.github.io/project/seil/')[(Video)]('https://www.youtube.com/watch?v=UHUmq-cOMh4')
+` `  
+` `
+
+![](images/haojie_icra23.png){: .align-right width="200px"}
+**Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
+Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt  
+*ICRA 2023, London, UK*
+[(PDF)]('https://arxiv.org/pdf/2211.00191.pdf')[(Page)]('https://haojhuang.github.io/edge_grasp_page/')[(Code)]('https://github.com/HaojHuang/Edge-Grasp-Network')
+` `  
+` `
+
+![](images/symplan-intro-commutative.png){: .align-right width="200px"}
+**Integrating Symmetry into Differentiable Planning with Steerable Convolutions**
+Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong
+\* Equal Contribution
+*ICLR 2023, RLDM 2022*
+[(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')[(Code)]('https://github.com/zhao0625/DiffPlan')[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
+` `  
+` `
+
+![](images/rss22.png){: .align-right width="200px"}
+**On-Robot Learning With Equivariant Models**  
+Dian Wang, Mingxi Jia, **Xupeng Zhu**, Robin Walters, Robert Platt  
+*CoRL 2022, Auckland, New Zealand*  
+[(PDF)]('https://pointw.github.io/equi_robot_page/')[(Video)]('https://www.youtube.com/watch?v=NEUDTVXlKeg')[(Code)]('https://github.com/pointW/equi_rl')
+` `  
+` `
+
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
@@ -33,6 +83,15 @@ applications. Currently, I am working on equivariant neural networks and model b
 [(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
+
+![](images/bulletarm.png){: .align-right width="200px"}
+**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
+Dian Wang\*, Colin Kohler\*, **Xupeng Zhu**, Mingxi Jia, Robert Platt  
+\* Equal Contribution  
+*ISRR 2022, Geneva, Switzerland*  
+[(PDF)]('https://arxiv.org/pdf/2205.14292.pdf')[(Code)]('https://github.com/ColinKohler/BulletArm')
+` `  
+` ` 
 
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
