@@ -38,7 +38,7 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 **On Robot Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
-[(PDF)]('https://arxiv.org/pdf/2306.06489.pdf')[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(PDF)]('https://link.springer.com/article/10.1007/s10514-023-10112-w')[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)[(Arxiv)]('https://arxiv.org/abs/2306.06489')
 ` `  
 ` `
 
