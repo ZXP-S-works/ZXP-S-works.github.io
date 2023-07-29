@@ -13,6 +13,9 @@ I am a Ph.D. student working on robotics and machine learning. My research inter
 leveraging robot manipulation by reinforcement learning, and streamlining robotic systems to fulfill real-world
 applications. Currently, I am working on equivariant neural networks and model based reinforcement learning.
 
+## Internship
++ (2023 Summer) Boston Dynamics AI Institute
+
 ## Education
 + (2020-Present) Ph.D., [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu)
 , [Northeastern University](https://www.northeastern.edu). I am working in
@@ -38,7 +41,9 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 **On Robot Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
-[(PDF)]('https://link.springer.com/article/10.1007/s10514-023-10112-w')[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)[(Arxiv)]('https://arxiv.org/abs/2306.06489')
+[(PDF)]('https://link.springer.com/article/10.1007/s10514-023-10112-w')
+[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Arxiv)]('https://arxiv.org/abs/2306.06489')
 ` `  
 ` `
 
@@ -47,7 +52,9 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters, Robert Platt  
 \* Equal Contribution  
 *ICRA 2023, London, UK*  
-[(PDF)]('https://arxiv.org/pdf/2211.00194.pdf')[(Page)]('https://saulbatman.github.io/project/seil/')[(Video)]('https://www.youtube.com/watch?v=UHUmq-cOMh4')
+[(PDF)]('https://arxiv.org/pdf/2211.00194.pdf')
+[(Page)]('https://saulbatman.github.io/project/seil/')
+[(Video)]('https://www.youtube.com/watch?v=UHUmq-cOMh4')
 ` `  
 ` `
 
@@ -55,7 +62,9 @@ Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt  
 *ICRA 2023, London, UK*  
-[(PDF)]('https://arxiv.org/pdf/2211.00191.pdf')[(Page)]('https://haojhuang.github.io/edge_grasp_page/')[(Code)]('https://github.com/HaojHuang/Edge-Grasp-Network')
+[(PDF)]('https://arxiv.org/pdf/2211.00191.pdf')
+[(Page)]('https://haojhuang.github.io/edge_grasp_page/')
+[(Code)]('https://github.com/HaojHuang/Edge-Grasp-Network')
 ` `  
 ` `
 
@@ -64,7 +73,9 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
 \* Equal Contribution  
 *ICLR 2023, RLDM 2022*  
-[(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')[(Code)]('https://github.com/zhao0625/DiffPlan')[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
+[(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')
+[(Code)]('https://github.com/zhao0625/DiffPlan')
+[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
 ` `  
 ` `
 
@@ -72,7 +83,10 @@ Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong
 **On-Robot Learning With Equivariant Models**  
 Dian Wang, Mingxi Jia, **Xupeng Zhu**, Robin Walters, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
-[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
+[(Webpage)](https://pointw.github.io/equi_robot_page/)
+[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)
+[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)
+[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
 ` `  
 ` `
 
@@ -80,7 +94,8 @@ Dian Wang, Mingxi Jia, **Xupeng Zhu**, Robin Walters, Robert Platt
 **BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
 Dian Wang, Colin Kohler, **Xupeng Zhu**, Mingxi Jia, Robert Platt   
 *ISRR 2022, Geneva, Switzerland*  
-[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)[(Code)](https://github.com/ColinKohler/BulletArm)
+[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)
+[(Code)](https://github.com/ColinKohler/BulletArm)
 ` `  
 ` `
 
@@ -119,4 +134,5 @@ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2
 
 ## Service
 Reviewer: CVPR 2023 Workshop on 3D Vision and Robotics, RSS2023 Workshop Symmetry, CoRL2022, T-RO2022
+
 Teaching Assistant: CS5180 Reinforcement Learning, CS5100 Introduction to AI
