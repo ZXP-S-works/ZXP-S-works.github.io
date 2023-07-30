@@ -33,7 +33,7 @@ applications. Currently, I am working on equivariant neural networks and model b
 **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
 Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters  
 *Preprint*  
-[(PDF)]('https://arxiv.org/pdf/2303.04745.pdf')
+[(PDF)](https://arxiv.org/pdf/2303.04745.pdf)
 ` `  
 ` `
 
@@ -41,9 +41,9 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 **On Robot Grasp Learning Using Equivariant Models**  
 **Xupeng Zhu**, Dian Wang, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
-[(PDF)]('https://link.springer.com/article/10.1007/s10514-023-10112-w')
+[(PDF)](https://link.springer.com/article/10.1007/s10514-023-10112-w)
 [(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
-[(Arxiv)]('https://arxiv.org/abs/2306.06489')
+[(Arxiv)](https://arxiv.org/abs/2306.06489)
 ` `  
 ` `
 
@@ -52,9 +52,9 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters, Robert Platt  
 \* Equal Contribution  
 *ICRA 2023, London, UK*  
-[(PDF)]('https://arxiv.org/pdf/2211.00194.pdf')
-[(Page)]('https://saulbatman.github.io/project/seil/')
-[(Video)]('https://www.youtube.com/watch?v=UHUmq-cOMh4')
+[(PDF)](https://arxiv.org/pdf/2211.00194.pdf)
+[(Page)](https://saulbatman.github.io/project/seil/)
+[(Video)](https://www.youtube.com/watch?v=UHUmq-cOMh4)
 ` `  
 ` `
 
@@ -62,9 +62,9 @@ Mingxi Jia\*, Dian Wang\*, Guanang Su, David Klee, **Xupeng Zhu**, Robin Walters
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt  
 *ICRA 2023, London, UK*  
-[(PDF)]('https://arxiv.org/pdf/2211.00191.pdf')
-[(Page)]('https://haojhuang.github.io/edge_grasp_page/')
-[(Code)]('https://github.com/HaojHuang/Edge-Grasp-Network')
+[(PDF)](https://arxiv.org/pdf/2211.00191.pdf)
+[(Page)](https://haojhuang.github.io/edge_grasp_page/)
+[(Code)](https://github.com/HaojHuang/Edge-Grasp-Network)
 ` `  
 ` `
 
@@ -73,9 +73,9 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
 \* Equal Contribution  
 *ICLR 2023, RLDM 2022*  
-[(PDF)]('https://lfzhao.com/paper/paper-symplan-iclr2023.pdf')
-[(Code)]('https://github.com/zhao0625/DiffPlan')
-[(Page)]('https://iclr.cc/virtual/2023/poster/10993')
+[(PDF)](https://lfzhao.com/paper/paper-symplan-iclr2023.pdf)
+[(Code)](https://github.com/zhao0625/DiffPlan)
+[(Page)](https://iclr.cc/virtual/2023/poster/10993)
 ` `  
 ` `
 
