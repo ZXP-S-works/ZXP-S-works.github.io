@@ -43,6 +43,7 @@ Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters
 *Autonomous Robots. 2023*  
 [(PDF)](https://link.springer.com/article/10.1007/s10514-023-10112-w)
 [(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Website)](https://zxp-s-works.github.io/equivariant_grasp_site/)
 [(Arxiv)](https://arxiv.org/abs/2306.06489)
 ` `  
 ` `
