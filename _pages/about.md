@@ -10,10 +10,11 @@ published: true
 ---
 
 I am a Ph.D. student working on robotics and machine learning. My research interests include 
-leveraging robot manipulation by reinforcement learning, and streamlining robotic systems to fulfill real-world
-applications. Currently, I am working on equivariant neural networks and model based reinforcement learning.
+leveraging robot manipulation by imitation learning, reinforcement learning, and streamlining robotic systems to fulfill 
+real-world applications. Currently, I am working on applying geometric deep learning to SE(3) robotic policy learning.
 
 ## Internship
++ (2024 Summer) Amazon Robotics
 + (2023 Summer) Boston Dynamics AI Institute
 
 ## Education
@@ -28,6 +29,15 @@ applications. Currently, I am working on equivariant neural networks and model b
 
 
 ## Publication
+![](images/haojie_iclr24.png){: .align-right width="200px"}
+**Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
+Haojie Huang, Owen Lewis Howell\*, Dian Wang\*, **Xupeng Zhu\***, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
+*ICLR 2024, Vienna, Austria*  
+[(Website)]('https://haojhuang.github.io/fourtran_page/','_blank')
+[(Openreview)]('https://openreview.net/pdf?id=UulwvAU1W0','_blank')
+[(Video)]('https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=iBD87RsHBr5aIFXt','_blank')
+` `  
+` `
 
 ![](images/ice_example.png){: .align-right width="200px"}
 **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
@@ -72,7 +82,6 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 ![](images/symplan-intro-commutative.png){: .align-right width="200px"}
 **Integrating Symmetry into Differentiable Planning with Steerable Convolutions**
 Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
-\* Equal Contribution  
 *ICLR 2023, RLDM 2022*  
 [(PDF)](https://lfzhao.com/paper/paper-symplan-iclr2023.pdf)
 [(Code)](https://github.com/zhao0625/DiffPlan)
@@ -130,8 +139,9 @@ Zhijun Zhang, Siyuan Chen, **Xupeng Zhu**, Ziyi Yan
 IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2020
 [(PDF)](https://ieeexplore.ieee.org/document/8737741)
 ` `  
-` `  
+` `
 
+\* indicates equal contribution; <sup>†</sup> indicates equal advising. 
 
 ## Service
 Reviewer: CVPR 2023 Workshop on 3D Vision and Robotics, RSS2023 Workshop Symmetry, CoRL2022, T-RO2022
