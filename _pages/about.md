@@ -32,14 +32,14 @@ real-world applications. Currently, I am working on applying geometric deep lear
 
 ## Publication
 
-![](images/xupeng_equact.png){: .align-right width="200px"} 
+![](images/xupeng_equact.png){: .align-right width="200px"}
 EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation  
 **Xupeng Zhu**, Yu Qi, Yizhe Zhu, Robin Walter\*, Robert Platt\*  
 *In submission*  
 ` `  
 ` `
 
-![](images/xupeng_sdp.png){: .align-right width="200px"} 
+![](images/xupeng_sdp.png){: .align-right width="200px"}
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
 *ICML 2025*  
@@ -49,21 +49,21 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 ` `  
 ` `
 
-![](images/yifan_fff.png){: .align-right width="200px"} 
+![](images/yifan_fff.png){: .align-right width="200px"}
 Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  
 Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  
-*Science Robotics*  
+*Science Robotics 2025*  
 ` `  
 ` `
 
-![](images/haibo_hep.png){: .align-right width="200px"}  
+![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
 Haibo Zhao\*, Dian Wang\*, Yizhe Zhu, **Xupeng Zhu**, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
 *ICML 2025*  
 ` `  
 ` `
 
-![](images/boce_push_grasp.png){: .align-right width="200px"}  
+![](images/boce_push_grasp.png){: .align-right width="200px"}
 Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization   
 Boce Hu\*, Heng Tian\*, Dian Wang, Haojie Huang, **Xupeng Zhu**, Robin Walters, Robert Platt   
 *Preprint*  
