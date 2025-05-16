@@ -43,6 +43,8 @@ EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipu
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
 *ICML 2025*  
+[(Axiv is coming soon)]()
+[(Code is coming soon)]()
 ` `  
 ` `
 
