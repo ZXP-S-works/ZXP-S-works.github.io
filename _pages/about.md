@@ -132,7 +132,7 @@ Haojie Huang, Dian Wang, **Xupeng Zhu**, Robin Walters, Robert Platt
 ` `
 
 ![](images/symplan-intro-commutative.png){: .align-right width="200px"}
-**Integrating Symmetry into Differentiable Planning with Steerable Convolutions**
+**Integrating Symmetry into Differentiable Planning with Steerable Convolutions**  
 Linfeng Zhao, **Xupeng Zhu\***, Lingzhi Kong\*, Robin Walters, Lawson L.S. Wong   
 *ICLR 2023, RLDM 2022*  
 [(PDF)](https://lfzhao.com/paper/paper-symplan-iclr2023.pdf)
@@ -188,7 +188,7 @@ Dian Wang, Robin Walters, **Xupeng Zhu**, Robert Platt
 ![](images/TII20.png){: .align-right width="200px"}
 **Two Hybrid End-Effector Posture-Maintaining and Obstacle-Limits Avoidance Schemes for Redundant Robot Manipulators**  
 Zhijun Zhang, Siyuan Chen, **Xupeng Zhu**, Ziyi Yan  
-IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2020
+IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2020  
 [(PDF)](https://ieeexplore.ieee.org/document/8737741)
 ` `  
 ` `
@@ -196,6 +196,6 @@ IEEE Transactions on Industrial Informatics, vol. 16, no. 2, pp. 754-763, Feb. 2
 \* indicates equal contribution; <sup>†</sup> indicates equal advising. 
 
 ## Service
-Reviewer: CVPR 2023 Workshop on 3D Vision and Robotics, RSS2023 Workshop Symmetry, CoRL2022, T-RO2022
+Reviewer: ICML2025, CoRL2024-2022, ICRA2024-2023, T-RO2022
 
 Teaching Assistant: CS5180 Reinforcement Learning, CS5100 Introduction to AI
