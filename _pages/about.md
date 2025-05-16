@@ -13,9 +13,11 @@ I am a Ph.D. student working on robotics and machine learning. My research inter
 leveraging robot manipulation by imitation learning, reinforcement learning, and streamlining robotic systems to fulfill 
 real-world applications. Currently, I am working on applying geometric deep learning to SE(3) robotic policy learning.
 
+(2025 Summer) I am currently on job market and looking for a full-time robotic research position in industry.
+
 ## Internship
-+ (2024 Summer) Amazon Robotics
-+ (2023 Summer) Boston Dynamics AI Institute
++ (2024 Summer) Amazon Robotics, supervised by Jane Shi and Fan Wang.
++ (2023 Summer) Robotics and AI Institute, supervised by Prof. Aaron Dollar.
 
 ## Education
 + (2020-Present) Ph.D., [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu)
@@ -29,21 +31,68 @@ real-world applications. Currently, I am working on applying geometric deep lear
 
 
 ## Publication
+
+![](images/xupeng_equact.png){: .align-right width="200px"}
+EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation
+**Xupeng Zhu**, Yu Qi, Yizhe Zhu, Robin Walter\*, Robert Platt\*
+*In submission*
+` `  
+` `
+
+![](images/xupeng_sdp.png){: .align-right width="200px"}
+SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
+**Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi
+*ICML 2025*
+` `  
+` `
+
+![](images/yifan_fff.png){: .align-right width="200px"}
+Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand
+Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar
+*Science Robotics*
+` `  
+` `
+
+![](images/haibo_hep.png){: .align-right width="200px"}
+Hierarchical Equivariant Policy via Frame Transfer
+Haibo Zhao\*, Dian Wang\*, Yizhe Zhu, **Xupeng Zhu**, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
+*ICML 2025*
+` `  
+` `
+
+![](images/boce_push_grasp.png){: .align-right width="200px"}
+Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization  
+Boce Hu\*, Heng Tian\*, Dian Wang, Haojie Huang, **Xupeng Zhu**, Robin Walters, Robert Platt  
+*Preprint*  
+[(Arxiv)](https://arxiv.org/pdf/2504.03053)
+` `  
+` `
+
+![](images/xupeng_c2f.png){: .align-right width="200px"}
+**Coarse-to-Fine 3D Keyframe Transporter** 
+**Xupeng Zhu**, David Klee\*, Dian Wang\*, Boce Hu, Haojie Huang, Arsh Tangri, Robin Walters, Robert Platt  
+*Preprint* 
+[(Arxiv)](https://arxiv.org/pdf/2502.01773)
+` `  
+` `
+
 ![](images/haojie_iclr24.png){: .align-right width="200px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 Haojie Huang, Owen Lewis Howell\*, Dian Wang\*, **Xupeng Zhu\***, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
 *ICLR 2024, Vienna, Austria*  
-[(Website)]('https://haojhuang.github.io/fourtran_page/','_blank')
-[(Openreview)]('https://openreview.net/pdf?id=UulwvAU1W0','_blank')
-[(Video)]('https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=iBD87RsHBr5aIFXt','_blank')
+[(Website)](https://haojhuang.github.io/fourtran_page)
+[(Openreview)](https://openreview.net/pdf?id=UulwvAU1W0)
+[(Video)](https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=iBD87RsHBr5aIFXt)
 ` `  
 ` `
 
 ![](images/ice_example.png){: .align-right width="200px"}
 **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
 Dian Wang, **Xupeng Zhu**, Jung Yeon Park, Robert Platt, Robin Walters  
-*Preprint*  
+*NeurIPS 2023*  
 [(PDF)](https://arxiv.org/pdf/2303.04745.pdf)
+[(Code)](https://github.com/pointW/ext_theory)
+[(Video)](https://youtu.be/snCMcFjuHVI)
 ` `  
 ` `
 
