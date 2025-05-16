@@ -45,6 +45,7 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 *ICML 2025*  
 [(Axiv is coming soon)]()
 [(Code is coming soon)]()
+  
 ` `  
 ` `
 
