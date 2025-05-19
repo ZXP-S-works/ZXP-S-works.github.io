@@ -36,7 +36,7 @@ Besides being passionate about robotics, I also enjoy mountain and road biking, 
 
 ![](images/xupeng_equact.png){: .align-right width="200px"}
 EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation  
-**Xupeng Zhu**, Yu Qi, Yizhe Zhu, Robin Walter\*, Robert Platt\*  
+**Xupeng Zhu**, Yu Qi\*, Yizhe Zhu\*, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup> 
 *In submission*  
 ` `  
 ` `
