@@ -38,6 +38,8 @@ Besides being passionate about robotics, I also enjoy mountain and road biking, 
 EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation  
 **Xupeng Zhu**, Yu Qi\*, Yizhe Zhu\*, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
 *In submission*  
+[(Arxiv)](https://arxiv.org/abs/2505.21351)
+[(Leaderboard)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench)
 ` `  
 ` `
 
@@ -45,7 +47,7 @@ EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipu
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
 *ICML 2025*  
-[(Axiv is coming soon)]()
+[(Arxiv is coming soon)]()
 [(Code is coming soon)]()
   
 ` `  
