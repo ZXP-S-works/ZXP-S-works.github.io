@@ -13,8 +13,6 @@ I am a Ph.D. student working on robotics and machine learning. My research inter
 leveraging robot manipulation by imitation learning, reinforcement learning, and streamlining robotic systems to fulfill 
 real-world applications. Currently, I am working on applying geometric deep learning to SE(3) robotic policy learning.
 
-(2025 Summer) I am currently seeking a full-time research position in robotics to contribute to impactful work in the industry.
-
 Besides being passionate about robotics, I also enjoy mountain and road biking, photography, and watching inspiring videos on YouTube.
 
 ## Internship
@@ -64,6 +62,7 @@ Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Do
 Hierarchical Equivariant Policy via Frame Transfer  
 Haibo Zhao\*, Dian Wang\*, Yizhe Zhu, **Xupeng Zhu**, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
 *ICML 2025*  
+[(Arxiv)](https://arxiv.org/abs/2502.05728)
 ` `  
 ` `
 
