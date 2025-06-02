@@ -64,6 +64,7 @@ Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Do
 Hierarchical Equivariant Policy via Frame Transfer  
 Haibo Zhao\*, Dian Wang\*, Yizhe Zhu, **Xupeng Zhu**, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
 *ICML 2025*  
+[(Arxiv)](https://arxiv.org/abs/2502.05728)
 ` `  
 ` `
 
