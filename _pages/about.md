@@ -64,6 +64,7 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 [//]: # (` `  )
 
 [//]: # (` `)
+  
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
