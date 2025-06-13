@@ -48,15 +48,22 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 [(Arxiv is coming soon)]()
 [(Code is coming soon)]()
   
-` `  
-` `
+[//]: # (` `  )
 
-![](images/yifan_fff.png){: .align-right width="200px"}
-Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  
-Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  
-*Science Robotics 2025*  
-` `  
-` `
+[//]: # (` `)
+
+[//]: # ()
+[//]: # (![]&#40;images/yifan_fff.png&#41;{: .align-right width="200px"})
+
+[//]: # (Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  )
+
+[//]: # (Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  )
+
+[//]: # (*Science Robotics 2025*  )
+
+[//]: # (` `  )
+
+[//]: # (` `)
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
