@@ -46,7 +46,7 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
 *ICML 2025*  
 [(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)  
-[(Arxiv is coming soon)]()  
+[(PDF)](https://openreview.net/forum?id=U5nRMOs8Ed)  
 [(Code is coming soon)]()  
   
 [//]: # (` `  )
