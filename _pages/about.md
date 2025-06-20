@@ -66,6 +66,12 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 
 [//]: # (` `)
   
+![](images/boce_i2s.gif){: .align-right width="200px"}
+3D Equivariant Visuomotor Policy Learning via Spherical Projection  
+Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters
+*Preprint*  
+[(ArXiv)](https://arxiv.org/pdf/2505.16969)  
+
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
