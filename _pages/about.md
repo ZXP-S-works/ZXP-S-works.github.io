@@ -45,9 +45,10 @@ EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipu
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
 *ICML 2025*  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/se-3-equivariant-diffusion-policy-in/robot-manipulation-on-mimicgen)](https://paperswithcode.com/sota/robot-manipulation-on-mimicgen?p=se-3-equivariant-diffusion-policy-in)  
 [(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)  
 [(PDF)](https://openreview.net/forum?id=U5nRMOs8Ed)  
-[(Code is coming soon)]()  
+[(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)  
   
 [//]: # (` `  )
 
