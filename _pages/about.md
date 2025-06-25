@@ -38,8 +38,6 @@ EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipu
 *In submission*  
 [(Arxiv)](https://arxiv.org/abs/2505.21351)
 [(Leaderboard)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench)
-` `  
-` `
 
 ![](images/xupeng_sdp.png){: .align-right width="200px"}
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
@@ -48,31 +46,21 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/se-3-equivariant-diffusion-policy-in/robot-manipulation-on-mimicgen)](https://paperswithcode.com/sota/robot-manipulation-on-mimicgen?p=se-3-equivariant-diffusion-policy-in)  
 [(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)
 [(PDF)](https://openreview.net/forum?id=U5nRMOs8Ed)  
-[(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)  
-  
-[//]: # (` `  )
+[(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)
 
-[//]: # (` `)
-
-[//]: # ()
-[//]: # (![]&#40;images/yifan_fff.png&#41;{: .align-right width="200px"})
-
-[//]: # (Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  )
-
-[//]: # (Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  )
-
-[//]: # (*Science Robotics 2025*  )
-
-[//]: # (` `  )
-
-[//]: # (` `)
+![](images/yifan_fff.png){: .align-right width="200px"}
+Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  
+Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  
+*Science Robotics, Volume 10, Issue 103, Jun 2025*  
+[(PDF)](https://www.science.org/doi/10.1126/scirobotics.adq5046)
   
 ![](images/boce_i2s.gif){: .align-right width="200px"}
 3D Equivariant Visuomotor Policy Learning via Spherical Projection  
 Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters
 *Preprint*  
-[(ArXiv)](https://arxiv.org/pdf/2505.16969)  
-
+[(ArXiv)](https://arxiv.org/pdf/2505.16969)
+` `  
+` `
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
