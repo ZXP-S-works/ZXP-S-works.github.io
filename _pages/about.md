@@ -45,7 +45,8 @@ SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space
 *ICML 2025*  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/se-3-equivariant-diffusion-policy-in/robot-manipulation-on-mimicgen)](https://paperswithcode.com/sota/robot-manipulation-on-mimicgen?p=se-3-equivariant-diffusion-policy-in)  
 [(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)
-[(PDF)](https://openreview.net/forum?id=U5nRMOs8Ed)  
+[(Arxiv)](https://arxiv.org/abs/2507.01723)  
+[(OpenReview)](https://openreview.net/forum?id=U5nRMOs8Ed)
 [(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)
 
 ![](images/yifan_fff.png){: .align-right width="200px"}
@@ -58,7 +59,7 @@ Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Do
 3D Equivariant Visuomotor Policy Learning via Spherical Projection  
 Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters
 *Preprint*  
-[(ArXiv)](https://arxiv.org/pdf/2505.16969)
+[(Arxiv)](https://arxiv.org/pdf/2505.16969)
 ` `  
 ` `
 
