@@ -43,6 +43,14 @@ EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipu
 [(Arxiv)](https://arxiv.org/abs/2505.21351)
 [(Leaderboard)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench)
 
+![](images/boce_i2s.gif){: .align-right width="200px"}
+3D Equivariant Visuomotor Policy Learning via Spherical Projection  
+Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters  
+*NeurIPS 2025, Spotlight*  
+[(PDF)](https://arxiv.org/pdf/2505.16969)
+` `  
+` `
+
 ![](images/xupeng_sdp.png){: .align-right width="200px"}
 SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
 **Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
@@ -58,14 +66,6 @@ Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand
 Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Dollar  
 *Science Robotics, Volume 10, Issue 103, Jun 2025*  
 [(PDF)](https://www.science.org/doi/10.1126/scirobotics.adq5046)
-  
-![](images/boce_i2s.gif){: .align-right width="200px"}
-3D Equivariant Visuomotor Policy Learning via Spherical Projection  
-Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters
-*NeurIPS 2025, Spotlight*  
-[(Arxiv)](https://arxiv.org/pdf/2505.16969)
-` `  
-` `
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 Hierarchical Equivariant Policy via Frame Transfer  
