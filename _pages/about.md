@@ -25,9 +25,9 @@ inspiring videos on YouTube.
 
 ## Education
 + (2020-2025) Ph.D., [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu)
-, [Northeastern University](https://www.northeastern.edu). I am working in
+, [Northeastern University](https://www.northeastern.edu). I worked in
 [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor
-[Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
+[Robert Platt](http://www.ccs.neu.edu/home/rplatt/) and collaborated with Professor [Robin Walters](https://www.robinwalters.com/).
 
 + (2017-2020) M.S, Robotics, Northeastern University, Boston, MA, USA
 
