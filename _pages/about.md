@@ -9,18 +9,22 @@ redirect_from:
 published: true
 ---
 
-I am a Ph.D. student working on robotics and machine learning. My research interests include 
+I am an applied scientist at Amazon Robotics, working on robotics and machine learning. My research interests include 
 leveraging robot manipulation by imitation learning, reinforcement learning, and streamlining robotic systems to fulfill 
-real-world applications. Currently, I am working on applying geometric deep learning to SE(3) robotic policy learning.
+real-world applications. Currently, I am working on improving robot foundation models using reinforcement learning.
 
-Besides being passionate about robotics, I also enjoy mountain and road biking, photography, and watching inspiring videos on YouTube.
+Besides being passionate about robotics, I also enjoy mountain and road biking, climbing, photography, and watching 
+inspiring videos on YouTube.
+
+## Work
++ (2025-Present) Amazon Robotics, supervised by Kapil Katyal.
 
 ## Internship
 + (2024 Summer) Amazon Robotics, supervised by Jane Shi and Fan Wang.
 + (2023 Summer) Robotics and AI Institute, supervised by Prof. Aaron Dollar.
 
 ## Education
-+ (2020-Present) Ph.D., [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu)
++ (2020-2025) Ph.D., [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu)
 , [Northeastern University](https://www.northeastern.edu). I am working in
 [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor
 [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
@@ -58,7 +62,7 @@ Yifan Zhu\*, Mei Hao\*, **Xupeng Zhu\***, Quentin Bateux, Alex Wong, Aaron M. Do
 ![](images/boce_i2s.gif){: .align-right width="200px"}
 3D Equivariant Visuomotor Policy Learning via Spherical Projection  
 Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert Platt, Robin Walters
-*Preprint*  
+*NeurIPS 2025, Spotlight*  
 [(Arxiv)](https://arxiv.org/pdf/2505.16969)
 ` `  
 ` `
