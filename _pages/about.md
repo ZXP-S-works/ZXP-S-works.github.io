@@ -67,6 +67,19 @@ Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, **Xupeng Zhu**, Owen Howell, 
 ` `
 
 
+![](images/xupeng_sdp.png){: .align-right width="200px"}
+SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
+**Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
+*ICML 2025*  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/se-3-equivariant-diffusion-policy-in/robot-manipulation-on-mimicgen)](https://paperswithcode.com/sota/robot-manipulation-on-mimicgen?p=se-3-equivariant-diffusion-policy-in)  
+[(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)
+[(Arxiv)](https://arxiv.org/abs/2507.01723)
+[(OpenReview)](https://openreview.net/forum?id=U5nRMOs8Ed)
+[(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)
+` `  
+` `
+
+
 ![](images/boce_push_grasp.png){: .align-right width="200px"}
 Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization  
 Boce Hu\*, Heng Tian\*, Dian Wang, Haojie Huang, **Xupeng Zhu**, Robin Walters, Robert Platt  
@@ -85,15 +98,6 @@ Boce Hu, Dian Wang, David Klee, Heng Tian, **Xupeng Zhu**, Haojie Huang, Robert 
 ` `  
 ` `
 
-![](images/xupeng_sdp.png){: .align-right width="200px"}
-SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space  
-**Xupeng Zhu**, Fan Wang, Robin Walters, Jane Shi  
-*ICML 2025*  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/se-3-equivariant-diffusion-policy-in/robot-manipulation-on-mimicgen)](https://paperswithcode.com/sota/robot-manipulation-on-mimicgen?p=se-3-equivariant-diffusion-policy-in)  
-[(Video)](https://recorder-v3.slideslive.com/?share=102381&s=e55f418c-393e-451f-a47e-c25b41d009e5)
-[(Arxiv)](https://arxiv.org/abs/2507.01723)  
-[(OpenReview)](https://openreview.net/forum?id=U5nRMOs8Ed)
-[(Code)](https://github.com/amazon-science/Spherical_Diffusion_Policy)
 
 ![](images/yifan_fff.png){: .align-right width="200px"}
 Forces for Free: Vision-Based Contact Force Estimation with a Compliant Hand  
