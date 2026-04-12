@@ -11,7 +11,7 @@ published: true
 
 I am an applied scientist at Amazon Robotics, working on robotics and machine learning. My research interests include 
 leveraging robot manipulation by imitation learning, reinforcement learning, and streamlining robotic systems to fulfill 
-real-world applications. Currently, I am working on improving robot foundation models using reinforcement learning.
+real-world applications. Currently, I am working on robotic foundation models.
 
 Besides being passionate about robotics, I also enjoy mountain and road biking, climbing, photography, and watching 
 inspiring videos on YouTube.
@@ -37,11 +37,45 @@ inspiring videos on YouTube.
 ## Publication
 
 ![](images/xupeng_equact.png){: .align-right width="200px"}
-EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation  
+EquAct: An SE(3)-Equivariant Multi-Task Transformer for 3D Robotic Manipulation  
 **Xupeng Zhu**, Yu Qi\*, Yizhe Zhu\*, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
-*In submission*  
-[(Arxiv)](https://arxiv.org/abs/2505.21351)
+*ICLR 2026*  
+[(OpenReview)](https://openreview.net/pdf?id=d1wuA8oIH0)
+[(Code)](https://github.com/ZXP-S-works/EquAct)
+[(Video)](https://www.youtube.com/watch?v=ymrNQusB6Mw)
 [(Leaderboard)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench)
+` `  
+` `
+
+
+![](images/equidiff.png){: .align-right width="200px"}
+Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation  
+Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, **Xupeng Zhu**, Boce Hu, Mingxi Jia, Jiuguang Wang, Robin Walters, Robert Platt  
+*IJRR 2026*  
+[(PDF)](https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445)
+` `  
+` `
+
+
+![](images/haibo_gsl.png){: .align-right width="200px"}
+Generalizable Hierarchical Skill Learning via Object-Centric Representation  
+Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, **Xupeng Zhu**, Owen Howell, Haojie Huang, Robin Walters, Dian Wang<sup>†</sup>, Robert Platt<sup>†</sup>  
+*RAL 2026*  
+[(PDF)](https://arxiv.org/pdf/2510.21121)
+[(Code)](https://codemasterzhao.github.io/GSL/)
+` `  
+` `
+
+
+![](images/boce_push_grasp.png){: .align-right width="200px"}
+Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization  
+Boce Hu\*, Heng Tian\*, Dian Wang, Haojie Huang, **Xupeng Zhu**, Robin Walters, Robert Platt  
+*RAL 2025*  
+[(PDF)](https://arxiv.org/pdf/2504.03053)
+[(Code)](https://equipushgrasp.github.io)
+` `  
+` `
+
 
 ![](images/boce_i2s.gif){: .align-right width="200px"}
 3D Equivariant Visuomotor Policy Learning via Spherical Projection  
@@ -75,13 +109,6 @@ Haibo Zhao\*, Dian Wang\*, Yizhe Zhu, **Xupeng Zhu**, Owen Howell, Linfeng Zhao,
 ` `  
 ` `
 
-![](images/boce_push_grasp.png){: .align-right width="200px"}
-Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization   
-Boce Hu\*, Heng Tian\*, Dian Wang, Haojie Huang, **Xupeng Zhu**, Robin Walters, Robert Platt   
-*Preprint*  
-[(Arxiv)](https://arxiv.org/pdf/2504.03053)
-` `  
-` `
 
 ![](images/xupeng_c2f.png){: .align-right width="200px"}
 **Coarse-to-Fine 3D Keyframe Transporter**  
