@@ -40,7 +40,7 @@ inspiring videos on YouTube.
 EquAct: An SE(3)-Equivariant Multi-Task Transformer for 3D Robotic Manipulation  
 **Xupeng Zhu**, Yu Qi\*, Yizhe Zhu\*, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
 *ICLR 2026*  
-[(OpenReview)](https://openreview.net/pdf?id=d1wuA8oIH0)
+[(OpenReview)](https://openreview.net/forum?id=d1wuA8oIH0)
 [(Code)](https://github.com/ZXP-S-works/EquAct)
 [(Video)](https://www.youtube.com/watch?v=ymrNQusB6Mw)
 [(Leaderboard)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench)
